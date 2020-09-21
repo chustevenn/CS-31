@@ -1,5 +1,5 @@
 # CS-31
-CS 31 (UCLA): Introduction to Computer Science 1 (Intro to C++ and Object Oriented Programming)
+CS 31 (UCLA): Introduction to Computer Science 1 (Intro to C++ and Object Oriented Programming).  
 Personal solutions to CS 31 Projects: Taught at UCLA by Howard Stahl, Winter 2020
 
 | Assignment | Grade   |
